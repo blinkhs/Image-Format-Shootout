@@ -22,5 +22,5 @@ The main question this blog will answer is: Which image format provides the best
 
 - https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Image_types
 - https://developers.google.com/speed/webp
-- https://aomedia.org/av1-image-format/
+- https://aomedia.org/specifications/avif/
 - https://cloudinary.com/documentation/cloudinary_developer_get_started
