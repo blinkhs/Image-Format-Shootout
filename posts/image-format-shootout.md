@@ -1,6 +1,6 @@
 ---
 title: "Image Format Shootout"
-tags: [PNG, JPEG, WebP, AVIF, image compression]
+tags: [PNG, JPEG, WebP, AVIF, Image Compression]
 ---
 
 ## Introduction
